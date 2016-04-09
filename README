@@ -3,6 +3,7 @@
 # Here I plan to collect the URLs of the freely available issues, thus one can download them easily.
 # How to download all the issues:
 # $ wget -c -i NAME_OF_THIS_FILE.txt
+# for epub versions see the epub/README file
 
 # The date before a URL below is the date when the issue was made available for free.
 # Actually, these issues were made 9 months before these dates.
