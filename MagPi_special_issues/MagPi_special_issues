@@ -1,0 +1,14 @@
+# How to download all the issues:
+# $ wget -c -i NAME_OF_THIS_FILE.txt
+
+# Special issues
+https://www.raspberrypi.org/magpi-issues/MagPiSE1.pdf
+https://raspberrypi.org/magpi-issues/Essentials_Bash_v1.pdf
+https://raspberrypi.org/magpi-issues/Projects_Book_v1.pdf
+https://www.raspberrypi.org/magpi-issues/Essentials_Games_v1.pdf
+https://raspberrypi.org/magpi-issues/Essentials_SenseHAT_v1.pdf
+https://raspberrypi.org/magpi-issues/Essentials_Sonic_Pi-v1.pdf
+https://raspberrypi.org/magpi-issues/Essentials_Scratch_v1.pdf
+https://raspberrypi.org/magpi-issues/Essentials_Minecraft_v1.pdf
+https://raspberrypi.org/magpi-issues/Essentials_GPIOZero_v1.pdf
+https://www.raspberrypi.org/magpi-issues/Essentials_C_v1.pdf
