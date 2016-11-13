@@ -13,8 +13,8 @@ thus one can download them easily.
 If you want to download the epub versions, check out the content of
 the `LinuxVoice_epub/` folder.
 
-* [Linux Voice issues, PDF](LinuxVoice_epub/LinuxVoice_epub)
-* [Linux Voice issues, epub](LinuxVoice)
+* [Linux Voice issues, PDF](LinuxVoice)
+* [Linux Voice issues, epub](LinuxVoice_epub/LinuxVoice_epub)
 
 MagPi
 -----
