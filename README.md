@@ -14,7 +14,7 @@ If you want to download the epub versions, check out the content of
 the `LinuxVoice_epub/` folder.
 
 * [Linux Voice issues, PDF](LinuxVoice)
-* [Linux Voice issues, epub](LinuxVoice_epub/LinuxVoice_epub)
+* [Linux Voice issues, epub](LinuxVoice_epub/README)
 
 MagPi
 -----
@@ -24,4 +24,11 @@ in Raspberry Pi too. I don't want to maintain one more repository, so I
 will collect the MagPi issues here.
 
 * [MagPi issues](MagPi)
-* [MagPi special issues](MagPi_special_issues/MagPi_special_issues)
+* [MagPi special issues](MagPi_special_issues/README)
+
+----------
+
+Contributors
+------------
+
+[kisssandoradam](https://github.com/kisssandoradam)
